@@ -1,0 +1,8 @@
+Nama	: Luthfi Indana
+NIM	: 16702251021
+Kelas	: B PTK 2016
+
+Tugas ini merupakan tugas portofolio. Ada 3 jenis file di dalamnya.
+File .html merupakan halaman web dengan bahasa pemrograman web
+File .css merupakan halaman web sebagai bagian dari desain halaman html
+File .jpg merupakan jenis file yang digunakan untuk menyisipkan gambar pada halaman web.
